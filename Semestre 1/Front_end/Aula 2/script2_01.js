@@ -1,0 +1,5 @@
+alert("Mensagem")
+document.write("<h2> Outra mensagem</h2>")
+document.write("---")
+document.write(10 * 3)
+console.log("Onde aparecer?")

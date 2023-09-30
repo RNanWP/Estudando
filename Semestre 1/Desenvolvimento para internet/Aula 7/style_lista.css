@@ -1,0 +1,12 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+}
+.cardapio{
+    list-style-type: upper-roman;
+}
+.lanche{
+    list-style-type: upper-alpha;
+}
+.cardapio > li{
+    list-style-type: none;
+}

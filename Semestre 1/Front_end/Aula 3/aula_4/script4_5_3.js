@@ -1,0 +1,10 @@
+let numero = 19;
+let k,j;
+let x = 25;
+k=10;
+j=100;
+numero++;
+--x;
+++k;
+j--;
+document.write(`k=${k} j=${j} numero=${numero} x=${x}`);

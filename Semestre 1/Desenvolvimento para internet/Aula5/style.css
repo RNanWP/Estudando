@@ -1,0 +1,23 @@
+h1{
+    background-color: hsl(240, 100%, 50%);
+    color: #fff;
+}
+h1:hover{
+    background-color: hsl(240,100%,30%);
+}
+.t1{
+    background-color: hsl(60,100%,50%);
+    color: hsl(0,100%,50%);
+    width: 40%;
+    height: 40vh;
+}
+.t2{
+    background-color: hsl(120, 100%, 50%);
+    width: 500px;
+    height: 500px;
+}
+.t3{
+    background-color: hsl(0, 100%, 50%);
+    font-size: 1.5rem;
+    width: 50vw
+}

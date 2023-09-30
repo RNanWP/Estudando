@@ -1,0 +1,15 @@
+h1{
+    background-color:blue;
+}
+.cor1{
+    background-color: #ff0000;
+}
+.cor2{
+    background-color:#00ff00;
+}
+.cor3{
+    background-color: rgb(0,0,255);
+}
+.cor4{
+    background-color: hsl(60,100%,50%)
+}

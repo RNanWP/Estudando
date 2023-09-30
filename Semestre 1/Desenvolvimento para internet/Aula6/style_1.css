@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding: 0;
+}
+h1{
+    background-color: blueviolet;
+    margin:10px auto;
+    width:800px;
+    text-align: center;
+    border-radius: 30px;
+}
+h1:hover {
+    background-color: aqua;
+}
+#div-1{
+    background-color: orange;
+    width: 500px;
+    height: 200px;
+    margin: 30px;
+    padding-left: 10px;
+    border: 2px solid blue;
+}
+#div-2{
+    background-color: gray;
+    width: 500px;
+    height: 100px;
+    margin: 10px auto;
+    background-image: url('rosabonita.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+img{
+    width: 120px;
+}

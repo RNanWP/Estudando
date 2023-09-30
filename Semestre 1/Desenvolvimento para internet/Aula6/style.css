@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.imagens{
+    width: 80%;
+    border: 1px solid red;
+    margin:auto;
+}
+.imagens img{
+    width: 100%;
+
+}

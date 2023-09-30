@@ -1,0 +1,23 @@
+#include <stdio.h>
+
+int main() {
+    float altura, menor_altura = 1000, maior_altura = 0;
+
+    for (int i = 1; i <= 5; i++) {
+        printf("Digite a altura da pessoa %d (em metros): ", i);
+        scanf("%f", &altura);
+
+        if (altura < menor_altura) {
+            menor_altura = altura;
+        }
+
+        if (altura > maior_altura) {
+            maior_altura = altura;
+        }
+    }
+
+    printf("\nA menor altura do grupo e: %.2f metros\n", menor_altura);
+    printf("A maior altura do grupo e: %.2f metros\n", maior_altura);
+
+    return 0;
+}
